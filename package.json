@@ -1,0 +1,15 @@
+{
+  "name": "bird-office",
+  "version": "1.0.0",
+  "description": "Bird Office test technique",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "4.1.1"
+  }
+}
